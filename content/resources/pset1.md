@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e33332f4-bff5-ae89-1973-e5e34a516d97
 resourcetype: Document
 title: 'Problem Set #1: Introduction to Simulation in Regional and Urban Economics:
   Economic-Base Analysis'
