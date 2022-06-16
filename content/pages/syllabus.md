@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the seminar description and information
+  on course meeting times, grading, and suggested books to purchase.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -180,4 +182,4 @@ Miller, Ronald E., and Peter D. Blair. _Input-Output Analysis: Foundations and E
 
 Treyz, George I. _Regional Economic Modeling: A Systematic Approach to Economic Forecasting and Policy Analysis_. New York, NY: Springer, 1993. ISBN: 9780792393825.
 
-Required readings are available in the [readings]({{< baseurl >}}/pages/readings) section.
+Required readings are available in the {{% resource_link 12b64ba6-b0d6-8886-784a-e02389114205 "readings" %}} section.

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics and key
+  dates for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -27,7 +29,7 @@ KEY DATES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction and overview of a theoretical basis for regional economic analyses ([PDF]({{< baseurl >}}/resources/lec_01))
+Introduction and overview of a theoretical basis for regional economic analyses ({{% resource_link c9dde8d9-8a1b-a74a-3d8e-026372c10b28 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -65,7 +67,7 @@ Problem set 1, part I, due two days after Ses #3
 {{< tdopen >}}
 
 
-Alternative types of regional input-output models and multipliers ([PDF]({{< baseurl >}}/resources/lec04))
+Alternative types of regional input-output models and multipliers ({{% resource_link fb592a6e-36db-fe31-6190-b3bc9d2f9bfe "PDF" %}})
 
 Guest speaker: Glen Weisbrod, President, Economic development research group
 
