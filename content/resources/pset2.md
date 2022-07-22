@@ -5,6 +5,7 @@ file: /courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 2
 uid: 17db967a-d46c-90fd-9a92-49b6792d81ec
 ---
 Problem set on socioeconomic-impact analysis of the Boston economy.
-
