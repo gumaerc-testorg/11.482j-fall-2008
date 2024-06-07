@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes with an introduction and overview of a theoretical basis
   for regional economic analyses.
 file: /courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2008/c9dde8d98a1ba74a3d8e026372c10b28_lec_01.pdf
+file_size: 93050
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
