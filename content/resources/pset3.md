@@ -3,7 +3,7 @@ content_type: resource
 description: Problem set on the socioeconomic impact on the New Market area of the
   intervention(s) you decide should be taken and how they may or may not relate to
   the green initiative.
-file: /ol-ocw-studio-app/courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2008/c5cfe38f1aa8c3853cc5f308419f3f6d_pset3.pdf
+file: /courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2008/c5cfe38f1aa8c3853cc5f308419f3f6d_pset3.pdf
 file_size: 61170
 file_type: application/pdf
 learning_resource_types:

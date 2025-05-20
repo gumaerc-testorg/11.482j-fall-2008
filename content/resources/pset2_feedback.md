@@ -2,7 +2,7 @@
 content_type: resource
 description: A list of proposed projects on regional socioeconomic impact analyses
   and modeling.
-file: /ol-ocw-studio-app/courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2008/0a20083ad9afb7309803f2ddb35a8389_pset2_feedback.pdf
+file: /courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2008/0a20083ad9afb7309803f2ddb35a8389_pset2_feedback.pdf
 file_size: 138081
 file_type: application/pdf
 learning_resource_types:

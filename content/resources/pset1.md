@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on simulation in regional and urban economics, and economic-base
   analysis.
-file: /ol-ocw-studio-app/courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2008/2b4b1b6063a3e45c6f7794d90ee0da48_pset1.pdf
+file: /courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2008/2b4b1b6063a3e45c6f7794d90ee0da48_pset1.pdf
 file_size: 63508
 file_type: application/pdf
 learning_resource_types:
