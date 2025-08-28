@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation on alternative types of regional input-output models
   and multipliers, simulation models, competitive market analysis, economic opportunity
   models, and matching models to analysis scenarios.
-file: /courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2008/fb592a6e36dbfe316190b3bc9d2f9bfe_lec04.pdf
+file: /ol-ocw-studio-app/courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2008/fb592a6e36dbfe316190b3bc9d2f9bfe_lec04.pdf
 file_size: 313795
 file_type: application/pdf
 learning_resource_types: []
