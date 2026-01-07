@@ -174,9 +174,9 @@ Suggested Books to Purchase
 
 Isard, Walter, Iwan J. Azis, Matthew P. Drennen, Ronald E. Miller, Sidney Saltzman, and Erik Thorbecke. _Methods of Interregional and Regional Analysis_. Aldershot, England: Ashgate, 1997. ISBN: 9781859724101.
 
-{{% resource_link "ee356b90-0d86-44f9-b963-10e705ea90e5" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Krugman, Paul. "Center and Periphery." In {{% resource_link "ee356b90-0d86-44f9-b963-10e705ea90e5" "_Geography and Trade_" %}}. Cambridge, MA: MIT Press, 1992. ISBN: 9780262610865.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262610865) Krugman, Paul. "Center and Periphery." In [_Geography and Trade_](https://mitpress.mit.edu/9780262610865). Cambridge, MA: MIT Press, 1992. ISBN: 9780262610865.
 
-{{% resource_link "db3bd3d9-2f5a-409a-8584-40c7c05867be" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. "Geography Lost and Found," and "Appendix." In {{% resource_link "db3bd3d9-2f5a-409a-8584-40c7c05867be" "_Development, Geography, and Economic Theory_" %}}. Cambridge, MA: MIT Press, 1995. ISBN: 9780262112031.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262112031) ———. "Geography Lost and Found," and "Appendix." In [_Development, Geography, and Economic Theory_](https://mitpress.mit.edu/9780262112031). Cambridge, MA: MIT Press, 1995. ISBN: 9780262112031.
 
 Miller, Ronald E., and Peter D. Blair. _Input-Output Analysis: Foundations and Extensions_. Englewood Cliffs, NJ: Prentice-Hall, Inc., 1984. ISBN: 9780134667157.
 
